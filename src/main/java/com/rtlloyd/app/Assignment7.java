@@ -1,4 +1,5 @@
-public class assignment7 {
+package main.java.com.rtlloyd.app;
+public class Assignment7 {
     public static void main(String[] args) {
 	System.out.println("Hello, World!");
     }
